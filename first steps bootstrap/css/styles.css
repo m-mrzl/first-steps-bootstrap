@@ -1,0 +1,35 @@
+.border-dotted {
+    border: 2px dotted grey;
+}
+
+.border-top-dotted {
+    border-top:2px dotted grey;
+
+}
+
+.border-right-dotted {
+    border-right: 2px dotted grey;
+
+}
+
+
+.border-left-dotted {
+    border-left: 2px dotted grey;
+
+}
+
+
+.border-bottom-dotted {
+    border-bottom:2px dotted grey;
+
+}
+
+/* "!importnant"   priorise la proprieté par rapport a celle d'origine*/
+.nav-link {
+    color: orange !important ;
+}
+
+.nav-link:hover {
+    color: orangered !important;
+}
+
